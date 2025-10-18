@@ -10,7 +10,7 @@ public:
 
 	// Space O(1)
 	// Time O(s + t)
-	char findTheDifference(string s, string t) {
+	char findTheDifference(string& s, string& t) {
 		const size_t LETTERS_COUNT = 26;
 		int sCounter[LETTERS_COUNT] = {};
 		int tCounter[LETTERS_COUNT] = {};

@@ -10,7 +10,7 @@ public:
 
 	// Space O(1)
 	// Time O(s + t)
-	char findTheDifference(string s, string t) {
+	char findTheDifference(string& s, string& t) {
 		int sumS = 0, sumT = 0;
 
 		for (char c : s)
