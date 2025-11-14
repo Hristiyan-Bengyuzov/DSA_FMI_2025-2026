@@ -5,7 +5,6 @@
 
 using namespace std;
 
-// Doesn't pass all tests cause it's too slow
 // Time O(n)
 // Space O(1)
 class Solution {
