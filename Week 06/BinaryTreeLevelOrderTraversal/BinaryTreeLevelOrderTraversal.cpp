@@ -22,24 +22,24 @@ public:
 		if (!root)
 			return res;
 
-		queue<TreeNode*> nodes;
-		nodes.push(root);
+		queue<TreeNode*> queue;
+		queue.push(root);
 
-		while (!nodes.empty())
+		while (!queue.empty())
 		{
-			int size = nodes.size();
+			int levelSize = queue.size();
 			vector<int> currLevel;
 
-			for (size_t i = 0; i < size; i++)
+			for (size_t i = 0; i < levelSize; i++)
 			{
-				TreeNode* node = nodes.front(); nodes.pop();
+				TreeNode* node = queue.front(); queue.pop();
 				currLevel.push_back(node->val);
 
 				if (node->left)
-					nodes.push(node->left);
+					queue.push(node->left);
 
 				if (node->right)
-					nodes.push(node->right);
+					queue.push(node->right);
 			}
 
 			res.push_back(currLevel);
