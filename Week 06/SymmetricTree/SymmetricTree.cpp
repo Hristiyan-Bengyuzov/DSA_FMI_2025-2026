@@ -12,7 +12,7 @@ struct TreeNode {
 
 class Solution {
 private:
-	bool isSymetricHelper(TreeNode* left, TreeNode* right) {
+	bool isSymmetricHelper(TreeNode* left, TreeNode* right) {
 		if (!left && !right)
 			return true;
 
@@ -22,7 +22,7 @@ private:
 		if (left->val != right->val)
 			return false;
 
-		return isSymetricHelper(left->left, right->right) && isSymetricHelper(left->right, right->left);
+		return isSymmetricHelper(left->left, right->right) && isSymmetricHelper(left->right, right->left);
 	}
 
 public:
@@ -30,6 +30,6 @@ public:
 		if (!root)
 			return true;
 
-		return isSymetricHelper(root->left, root->right);
+		return isSymmetricHelper(root->left, root->right);
 	}
 };
