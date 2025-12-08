@@ -1,0 +1,25 @@
+// https://leetcode.com/problems/fibonacci-number/
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+class Solution {
+public:
+	int fib(int n) {
+		if (n == 0 || n == 1)
+			return n;
+
+		vector<int> dp(n + 1);
+
+		dp[0] = 0;
+		dp[1] = 1;
+
+		for (size_t i = 2; i <= n; i++)
+		{
+			dp[i] = dp[i - 1] + dp[i - 2];
+		}
+
+		return dp[n];
+	}
+};
