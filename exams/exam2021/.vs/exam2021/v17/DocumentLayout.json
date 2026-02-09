@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hris\\Desktop\\up podg\\exam2021\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{206D3CBB-73DA-4395-9B2E-5245109D6834}|sda_exam\\sda_exam.vcxproj|C:\\Users\\Hris\\Desktop\\up podg\\exam2021\\sda_exam\\sda_exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{206D3CBB-73DA-4395-9B2E-5245109D6834}|sda_exam\\sda_exam.vcxproj|solutionrelative:sda_exam\\sda_exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EC9DC1-7C8A-4983-8906-07116A54E4E8}|exam2021\\exam2021.vcxproj|C:\\Users\\Hris\\Desktop\\up podg\\exam2021\\exam2021\\exam2021.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99EC9DC1-7C8A-4983-8906-07116A54E4E8}|exam2021\\exam2021.vcxproj|solutionrelative:exam2021\\exam2021.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EC9DC1-7C8A-4983-8906-07116A54E4E8}|exam2021\\exam2021.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.42.34433\\INCLUDE\\UNORDERED_MAP||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sda_exam.cpp",
+              "DocumentMoniker": "C:\\Users\\Hris\\Desktop\\up podg\\exam2021\\sda_exam\\sda_exam.cpp",
+              "RelativeDocumentMoniker": "sda_exam\\sda_exam.cpp",
+              "ToolTip": "C:\\Users\\Hris\\Desktop\\up podg\\exam2021\\sda_exam\\sda_exam.cpp",
+              "RelativeToolTip": "sda_exam\\sda_exam.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T18:28:24.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "unordered_map",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\unordered_map",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\unordered_map",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\unordered_map",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\unordered_map",
+              "ViewState": "AgIAACAAAAAAAAAAAAArwDAAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-08T18:00:18.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "exam2021.cpp",
+              "DocumentMoniker": "C:\\Users\\Hris\\Desktop\\up podg\\exam2021\\exam2021\\exam2021.cpp",
+              "RelativeDocumentMoniker": "exam2021\\exam2021.cpp",
+              "ToolTip": "C:\\Users\\Hris\\Desktop\\up podg\\exam2021\\exam2021\\exam2021.cpp",
+              "RelativeToolTip": "exam2021\\exam2021.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T17:50:14.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

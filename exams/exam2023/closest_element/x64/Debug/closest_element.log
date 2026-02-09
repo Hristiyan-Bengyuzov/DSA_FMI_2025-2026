@@ -1,0 +1,4 @@
+﻿  closest_element.cpp
+C:\Users\Hris\Desktop\up podg\exam2023\closest_element\closest_element.cpp(8,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hris\Desktop\up podg\exam2023\closest_element\closest_element.cpp(50,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  closest_element.vcxproj -> C:\Users\Hris\Desktop\up podg\exam2023\x64\Debug\closest_element.exe

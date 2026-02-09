@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hris\\Desktop\\up podg\\exam2022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95387485-DE0C-4530-B990-F04A972B648D}|facebook_friends\\facebook_friends.vcxproj|C:\\Users\\Hris\\Desktop\\up podg\\exam2022\\facebook_friends\\facebook_friends.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95387485-DE0C-4530-B990-F04A972B648D}|facebook_friends\\facebook_friends.vcxproj|solutionrelative:facebook_friends\\facebook_friends.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7531CA98-514C-410F-81BE-FDE8045FF4AA}|exam2022\\exam2022.vcxproj|C:\\Users\\Hris\\Desktop\\up podg\\exam2022\\exam2022\\exam2022.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7531CA98-514C-410F-81BE-FDE8045FF4AA}|exam2022\\exam2022.vcxproj|solutionrelative:exam2022\\exam2022.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "facebook_friends.cpp",
+              "DocumentMoniker": "C:\\Users\\Hris\\Desktop\\up podg\\exam2022\\facebook_friends\\facebook_friends.cpp",
+              "RelativeDocumentMoniker": "facebook_friends\\facebook_friends.cpp",
+              "ToolTip": "C:\\Users\\Hris\\Desktop\\up podg\\exam2022\\facebook_friends\\facebook_friends.cpp",
+              "RelativeToolTip": "facebook_friends\\facebook_friends.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T09:21:21.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "exam2022.cpp",
+              "DocumentMoniker": "C:\\Users\\Hris\\Desktop\\up podg\\exam2022\\exam2022\\exam2022.cpp",
+              "RelativeDocumentMoniker": "exam2022\\exam2022.cpp",
+              "ToolTip": "C:\\Users\\Hris\\Desktop\\up podg\\exam2022\\exam2022\\exam2022.cpp",
+              "RelativeToolTip": "exam2022\\exam2022.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T08:47:04.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

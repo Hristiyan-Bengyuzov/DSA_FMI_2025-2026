@@ -1,0 +1,3 @@
+﻿  cycle_in_components.cpp
+C:\Users\Hris\Desktop\up podg\exam2023\cycle_in_components\cycle_in_components.cpp(53,13): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  cycle_in_components.vcxproj -> C:\Users\Hris\Desktop\up podg\exam2023\x64\Debug\cycle_in_components.exe

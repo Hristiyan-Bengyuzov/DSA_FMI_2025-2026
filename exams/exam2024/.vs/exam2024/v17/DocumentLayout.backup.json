@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hris\\Desktop\\up podg\\exam2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35B04CA3-94F2-43D8-ACC3-B11CA0E79486}|clusters\\clusters.vcxproj|C:\\Users\\Hris\\Desktop\\up podg\\exam2024\\clusters\\clusters.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35B04CA3-94F2-43D8-ACC3-B11CA0E79486}|clusters\\clusters.vcxproj|solutionrelative:clusters\\clusters.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E2465E-0999-458A-838A-C4B2FA8C525B}|treevalidator\\treevalidator.vcxproj|C:\\Users\\Hris\\Desktop\\up podg\\exam2024\\treevalidator\\treevalidator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0E2465E-0999-458A-838A-C4B2FA8C525B}|treevalidator\\treevalidator.vcxproj|solutionrelative:treevalidator\\treevalidator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C13D10-EE45-4896-9D29-31A267254A51}|exam2024\\exam2024.vcxproj|C:\\Users\\Hris\\Desktop\\up podg\\exam2024\\exam2024\\exam2024.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5C13D10-EE45-4896-9D29-31A267254A51}|exam2024\\exam2024.vcxproj|solutionrelative:exam2024\\exam2024.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clusters.cpp",
+              "DocumentMoniker": "C:\\Users\\Hris\\Desktop\\up podg\\exam2024\\clusters\\clusters.cpp",
+              "RelativeDocumentMoniker": "clusters\\clusters.cpp",
+              "ToolTip": "C:\\Users\\Hris\\Desktop\\up podg\\exam2024\\clusters\\clusters.cpp",
+              "RelativeToolTip": "clusters\\clusters.cpp",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAYwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T17:34:16.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "treevalidator.cpp",
+              "DocumentMoniker": "C:\\Users\\Hris\\Desktop\\up podg\\exam2024\\treevalidator\\treevalidator.cpp",
+              "RelativeDocumentMoniker": "treevalidator\\treevalidator.cpp",
+              "ToolTip": "C:\\Users\\Hris\\Desktop\\up podg\\exam2024\\treevalidator\\treevalidator.cpp",
+              "RelativeToolTip": "treevalidator\\treevalidator.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T15:05:15.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "exam2024.cpp",
+              "DocumentMoniker": "C:\\Users\\Hris\\Desktop\\up podg\\exam2024\\exam2024\\exam2024.cpp",
+              "RelativeDocumentMoniker": "exam2024\\exam2024.cpp",
+              "ToolTip": "C:\\Users\\Hris\\Desktop\\up podg\\exam2024\\exam2024\\exam2024.cpp",
+              "RelativeToolTip": "exam2024\\exam2024.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T11:47:56.385Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  facebook_friends.cpp
+C:\Users\Hris\Desktop\up podg\exam2022\facebook_friends\facebook_friends.cpp(45,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  facebook_friends.vcxproj -> C:\Users\Hris\Desktop\up podg\exam2022\x64\Debug\facebook_friends.exe

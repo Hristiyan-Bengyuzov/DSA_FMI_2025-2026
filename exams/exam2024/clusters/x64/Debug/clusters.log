@@ -1,0 +1,9 @@
+﻿  clusters.cpp
+C:\Users\Hris\Desktop\up podg\exam2024\clusters\clusters.cpp(28,16): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\Hris\Desktop\up podg\exam2024\clusters\clusters.cpp(28,16): warning C4267:         with
+C:\Users\Hris\Desktop\up podg\exam2024\clusters\clusters.cpp(28,16): warning C4267:         [
+C:\Users\Hris\Desktop\up podg\exam2024\clusters\clusters.cpp(28,16): warning C4267:             _Ty=int
+C:\Users\Hris\Desktop\up podg\exam2024\clusters\clusters.cpp(28,16): warning C4267:         ]
+C:\Users\Hris\Desktop\up podg\exam2024\clusters\clusters.cpp(92,15): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hris\Desktop\up podg\exam2024\clusters\clusters.cpp(94,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  clusters.vcxproj -> C:\Users\Hris\Desktop\up podg\exam2024\x64\Debug\clusters.exe
